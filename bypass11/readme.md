@@ -4,7 +4,7 @@ Step 1: use [Skip_TPM_Check_on_Dynamic_Update.cmd](Skip_TPM_Check_on_Dynamic_Upd
 _It's a set it and forget it script, with built-in undo - v7 using more reliable /Product Server trick_  
 _V9 rebased on cmd due to defender transgression; skips already patched media (0b)_  
 
-Step 2: use [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) to subscribe to the channel you want  
+Step 2: use [OfflineInsiderEnroll](https://github.com/JohanGoutorbe/offlineinsiderenroll) to subscribe to the channel you want  
 _while on 10, use BETA for Windows 11 22000.x builds (release), DEV for Windows 11 225xx.x builds (experimental)_  
 
 Step 3: check for updates via Settings - Windows Update and select Upgrade to Windows 11  
